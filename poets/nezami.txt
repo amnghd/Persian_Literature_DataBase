@@ -1,0 +1,2 @@
+nezami.txt
+number of beyts:	23690
